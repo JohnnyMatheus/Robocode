@@ -7,7 +7,7 @@ import java.awt.geom.Point2D;
 
 /**
  * CoderTankRobot - versão TURBO com Radar Ultra Lock
- * Autores: Johnny Matheus N., Nathaniel Rissi, Nelson R. Rodrigues Jr.
+ *  Autores: Johnny Matheus Nogueira de Medeiro, Nathaniel Nicolas Rissi Soares, Nelson Ramos Rodrigues Junior.
  */
 public class CoderTankRobot extends AdvancedRobot {
 
