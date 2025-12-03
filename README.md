@@ -6,7 +6,7 @@
 
 <hr />
 
-<p>O Robocode é uma plataforma/ambiente de programação criada para ensinar lógica de programação, inteligência artificial e Java através de batalhas entre robôs virtuais.</p>
+<p align="justify">O Robocode é uma plataforma/ambiente de programação criada para ensinar lógica de programação, inteligência artificial e Java através de batalhas entre robôs virtuais.</p>
 
 <p>Objetivo: Criar um robô com lógica de:</p>
 
@@ -28,7 +28,7 @@
 
 # Estratégia do Robô CoderTankRobot
 
-<p >O CoderTankRobot foi projetado para ser um robô competitivo, combinando um radar extremamente eficiente, mira preditiva e movimentos evasivos inteligentes. Ele utiliza recursos avançados do Robocode através da classe AdvancedRobot, permitindo ações simultâneas (andar, mirar e escanear ao mesmo tempo).</p>
+<p align="justify">O CoderTankRobot foi projetado para ser um robô competitivo, combinando um radar extremamente eficiente, mira preditiva e movimentos evasivos inteligentes. Ele utiliza recursos avançados do Robocode através da classe AdvancedRobot, permitindo ações simultâneas (andar, mirar e escanear ao mesmo tempo).</p>
 
 <div align="center">
 
