@@ -15,7 +15,7 @@
 - Tiro eficiente
 - Estratégia defensiva
 
-# Anatomia do robô
+<h1 align="center"> Anatomia do robô</h1>
 
 <div align="center">
 <img src="https://github.com/JohnnyMatheus/Robocode/blob/main/imagens/anatomia%20do%20robo.jpg">
@@ -25,9 +25,6 @@
 - Corpo – Suporta a arma com o radar na parte superior. O corpo é usado para mover o robô para frente e para trás, bem como para virar à esquerda ou à direita.
 - Canhão – Montado no corpo e usado para disparar balas de energia. O canhão pode girar para a esquerda ou para a direita. Possui um radar na parte superior.
 - Radar – Montado na arma, é usado para detectar outros robôs quando em movimento. O radar pode girar para a esquerda ou para a direita. Ele gera onScannedRobot()alertas quando detecta robôs.
-
-
-
 
 ## 🧠 Desenvolvedores
 
