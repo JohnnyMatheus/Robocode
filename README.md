@@ -26,6 +26,21 @@
 - Canhão – Montado no corpo e usado para disparar balas de energia. O canhão pode girar para a esquerda ou para a direita. Possui um radar na parte superior.
 - Radar – Montado na arma, é usado para detectar outros robôs quando em movimento. O radar pode girar para a esquerda ou para a direita. Ele gera onScannedRobot()alertas quando detecta robôs.
 
+# Estratégia do Robô CoderTankRobot
+
+<p>O CoderTankRobot foi projetado para ser um robô competitivo, combinando um radar extremamente eficiente, mira preditiva e movimentos evasivos inteligentes. Ele utiliza recursos avançados do Robocode através da classe AdvancedRobot, permitindo ações simultâneas (andar, mirar e escanear ao mesmo tempo).</p>
+
+| Sistema                           | Função                                |
+| --------------------------------- | ------------------------------------- |
+| **Radar Ultra Lock**              | Mantém alvo travado 100% do tempo     |
+| **Desvio por Energy Drop**        | Detecta tiros inimigos e desvia       |
+| **Mira preditiva linear**         | Calcula onde o inimigo estará         |
+| **Movimento lateral inteligente** | Dificulta ser atingido                |
+| **Anti-Wall**                     | Evita bordas da arena                 |
+| **Tiros inteligentes**            | Potência otimizada conforme distância |
+| **Reação a impacto**              | Muda padrão quando acertado           |
+
+
 ## 🧠 Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br>👑Game Master👑<br><sub>🐦‍🔥Johnny Matheus Nogueira de Medeiro🐦‍🔥</sub>](https://github.com/JohnnyMatheus) | [<img src="https://avatars.githubusercontent.com/u/166051346?v=4" width=115><br><sub>Nelson Ramos Rodrigues Junior</sub>](#) | [<img src="https://avatars.githubusercontent.com/u/165223471?v=4" width=115><br><sub>Nathaniel Nicolas Rissi Soares</sub>](#) |
