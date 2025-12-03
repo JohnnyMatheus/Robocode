@@ -16,6 +16,7 @@
 
 # Anatomia do robo
 
+<img align="center" src="https://github.com/JohnnyMatheus/Robocode/blob/main/imagens/anatomia%20do%20robo.jpg">
 
 ## 🧠 Desenvolvedores
 
