@@ -15,7 +15,7 @@
 - Tiro eficiente
 - Estratégia defensiva
 
-# Anatomia do robo
+# Anatomia do robô
 
 <div align="center">
 <img src="https://github.com/JohnnyMatheus/Robocode/blob/main/imagens/anatomia%20do%20robo.jpg">
