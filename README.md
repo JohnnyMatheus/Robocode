@@ -4,7 +4,12 @@
 ## <p align="center">🏫Turma: Ciências da Computação UNOESC - São Miguel do Oeste</p>
 <hr />
 
+<p>Objetivo: Criar um robô com lógica de:</p>
 
+- Movimento inteligente
+- Mira precisa
+- Tiro eficiente
+- Estratégia defensiva
 
 ## 🧠 Desenvolvedores
 
