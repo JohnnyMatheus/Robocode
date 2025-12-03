@@ -28,7 +28,9 @@
 
 # Estratégia do Robô CoderTankRobot
 
-<p>O CoderTankRobot foi projetado para ser um robô competitivo, combinando um radar extremamente eficiente, mira preditiva e movimentos evasivos inteligentes. Ele utiliza recursos avançados do Robocode através da classe AdvancedRobot, permitindo ações simultâneas (andar, mirar e escanear ao mesmo tempo).</p>
+<p >O CoderTankRobot foi projetado para ser um robô competitivo, combinando um radar extremamente eficiente, mira preditiva e movimentos evasivos inteligentes. Ele utiliza recursos avançados do Robocode através da classe AdvancedRobot, permitindo ações simultâneas (andar, mirar e escanear ao mesmo tempo).</p>
+
+<div align="center">
 
 | Sistema                           | Função                                |
 | --------------------------------- | ------------------------------------- |
@@ -39,6 +41,8 @@
 | **Anti-Wall**                     | Evita bordas da arena                 |
 | **Tiros inteligentes**            | Potência otimizada conforme distância |
 | **Reação a impacto**              | Muda padrão quando acertado           |
+
+</div>
 
 
 ## 🧠 Desenvolvedores
