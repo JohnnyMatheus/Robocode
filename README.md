@@ -22,6 +22,13 @@
 
 </div>
 
+- Corpo – Suporta a arma com o radar na parte superior. O corpo é usado para mover o robô para frente e para trás, bem como para virar à esquerda ou à direita.
+- Canhão – Montado no corpo e usado para disparar balas de energia. O canhão pode girar para a esquerda ou para a direita. Possui um radar na parte superior.
+- Radar – Montado na arma, é usado para detectar outros robôs quando em movimento. O radar pode girar para a esquerda ou para a direita. Ele gera onScannedRobot()alertas quando detecta robôs.
+
+
+
+
 ## 🧠 Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br>👑Game Master👑<br><sub>🐦‍🔥Johnny Matheus Nogueira de Medeiro🐦‍🔥</sub>](https://github.com/JohnnyMatheus) | [<img src="https://avatars.githubusercontent.com/u/166051346?v=4" width=115><br><sub>Nelson Ramos Rodrigues Junior</sub>](#) | [<img src="https://avatars.githubusercontent.com/u/165223471?v=4" width=115><br><sub>Nathaniel Nicolas Rissi Soares</sub>](#) |
