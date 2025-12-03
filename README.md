@@ -4,12 +4,16 @@
 ## <p align="center">🏫Turma: Ciências da Computação UNOESC - São Miguel do Oeste</p>
 <hr />
 
+<p>O Robocode é uma plataforma/ambiente de programação criada para ensinar lógica de programação, inteligência artificial e Java através de batalhas entre robôs virtuais.</p>
+
 <p>Objetivo: Criar um robô com lógica de:</p>
 
 - Movimento inteligente
 - Mira precisa
 - Tiro eficiente
 - Estratégia defensiva
+
+
 
 ## 🧠 Desenvolvedores
 
